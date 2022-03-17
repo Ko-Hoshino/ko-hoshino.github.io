@@ -1,5 +1,13 @@
-[{
+[
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "jp.co.osstech.sample.openamloginsample2",
                "sha256_cert_fingerprints": ["32:0B:99:C4:5F:18:42:48:F5:1A:7A:D6:8F:06:C9:FF:80:00:63:01:8E:23:F4:C8:E9:8C:4F:33:2B:23:36:C6"] }
-}]
+}
+,
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "jp.co.osstech.sample.openamloginsample3",
+               "sha256_cert_fingerprints": ["32:0B:99:C4:5F:18:42:48:F5:1A:7A:D6:8F:06:C9:FF:80:00:63:01:8E:23:F4:C8:E9:8C:4F:33:2B:23:36:C6"] }
+}
+]
