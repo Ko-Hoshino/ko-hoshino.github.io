@@ -5,8 +5,7 @@
       {
         "appID": "jp.co.osstech.sample.ios.openamloginsample2",
         "paths": [
-          "/return_to_app2",
-          ...
+          "/return_to_app2"
         ]
       }
     ]
